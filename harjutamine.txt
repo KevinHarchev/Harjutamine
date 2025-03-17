@@ -1,3 +1,5 @@
 GitHub on platvorm versioonihalduseks ja koostööks koodi kallal.  
 Seda kasutavad arendajad, ettevõtted ja open-source kogukonnad projektide haldamiseks ja jälgimiseks  
 Ma saan GitHubi kasutada oma õppeprojektide salvestamiseks ja meeskonnatööks
+GitHubi asutasid 2008. aastal Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon.  
+2018. aastal omandas Microsoft ettevõtte
